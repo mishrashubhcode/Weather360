@@ -20,7 +20,6 @@ Weather360 is a web application that retrieves and displays weather information 
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/mishrashubhcode/Weather360.git
 
 
